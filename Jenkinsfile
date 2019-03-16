@@ -18,6 +18,6 @@ node {
 }
 node {
     stage('deploy to prod'){
-        echo "Aparajita"
+        echo "hi"
     }
 }
